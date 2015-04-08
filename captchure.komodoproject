@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Komodo Project File - DO NOT EDIT -->
+<project id="24f26854-7611-48ad-901a-51fd6b9b43f7" kpf_version="5" name="captchure.komodoproject">
+<preference-set idref="24f26854-7611-48ad-901a-51fd6b9b43f7">
+  <string relative="path" id="import_dirname"></string>
+  <string id="import_exclude_matches">*.*~;*.bak;*.tmp;CVS;.#*;*.pyo;*.pyc;.svn;_svn;.git;.hg;.bzr;*%*;tmp*.html;.DS_Store;*.swp;*.kpf;*.komodoproject;*.komodotools</string>
+  <string id="import_include_matches"></string>
+  <boolean id="import_live">1</boolean>
+  <string id="javascriptExtraPaths"></string>
+  <string id="mappedPaths"></string>
+  <string id="perlExtraPaths"></string>
+  <boolean id="perl_lintOption_includeCurrentDirForLinter">1</boolean>
+  <string id="phpExtraPaths"></string>
+  <string relative="path" id="pythonExtraPaths">cap</string>
+  <string id="rubyExtraPaths"></string>
+</preference-set>
+</project>
